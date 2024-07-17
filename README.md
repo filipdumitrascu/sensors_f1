@@ -2,4 +2,3 @@
 
 #### Contributors: Dumitrascu Filip-Teodor
 
-## General description:
